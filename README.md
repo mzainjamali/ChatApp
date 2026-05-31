@@ -57,7 +57,7 @@ You will need:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/ChatApp.git
+git clone https://github.com/mzainjamali/ChatApp.git
 cd ChatApp
 ```
 
