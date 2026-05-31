@@ -144,5 +144,5 @@ Scan the QR code with Expo Go on your phone.
 
 ## Author
 
-Made by **Saeed**
-GitHub: [@yourusername](https://github.com/yourusername)
+Made by **zain**
+GitHub: [mzainjamali](https://github.com/mzainjamali)
